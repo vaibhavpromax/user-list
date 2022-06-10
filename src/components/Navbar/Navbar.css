@@ -23,11 +23,12 @@
     padding: 0.5rem 1.5rem;
     border: 1px solid #ff0055;
     border-radius: 4px;
-    background: #ff0055;
+    background: #ffd500;
     box-shadow: inset 0 0 0 1px #ff0055;
-    color: white;
+    color: black;
     cursor: pointer;
     margin-right: 1rem;
+    border-radius: 10px;
     text-decoration: none;
     display: inline-block;
 
@@ -39,6 +40,6 @@
 
 .button:hover,
 .button:active {
-    background: #ff4382;
+    background: #ffd500be;
     border-color: #ff4382;
 }
